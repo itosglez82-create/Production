@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/itosglez82-create/Production.git/static/css/main.90175187.css",
+    "main.js": "/itosglez82-create/Production.git/static/js/main.9609bb5f.js",
+    "static/js/453.20359781.chunk.js": "/itosglez82-create/Production.git/static/js/453.20359781.chunk.js",
+    "index.html": "/itosglez82-create/Production.git/index.html",
+    "main.90175187.css.map": "/itosglez82-create/Production.git/static/css/main.90175187.css.map",
+    "main.9609bb5f.js.map": "/itosglez82-create/Production.git/static/js/main.9609bb5f.js.map",
+    "453.20359781.chunk.js.map": "/itosglez82-create/Production.git/static/js/453.20359781.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90175187.css",
+    "static/js/main.9609bb5f.js"
+  ]
+}
